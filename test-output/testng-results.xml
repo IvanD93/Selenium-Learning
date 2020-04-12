@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-05T21:08:17 CEST" name="Default suite" finished-at="2020-04-05T21:08:43 CEST" duration-ms="25730">
+    <groups>
+    </groups>
+    <test started-at="2020-04-05T21:08:17 CEST" name="Default test" finished-at="2020-04-05T21:08:43 CEST" duration-ms="25730">
+      <class name="DomaciRickAstley.NewTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:DomaciRickAstley.NewTest@6b4a4e18]" started-at="2020-04-05T21:08:17 CEST" name="beforeClass" finished-at="2020-04-05T21:08:28 CEST" duration-ms="10524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="openYouTube()[pri:1, instance:DomaciRickAstley.NewTest@6b4a4e18]" started-at="2020-04-05T21:08:28 CEST" name="openYouTube" finished-at="2020-04-05T21:08:32 CEST" duration-ms="4062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openYouTube -->
+        <test-method signature="searchSong()[pri:2, instance:DomaciRickAstley.NewTest@6b4a4e18]" started-at="2020-04-05T21:08:32 CEST" name="searchSong" finished-at="2020-04-05T21:08:34 CEST" duration-ms="2107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchSong -->
+        <test-method signature="playSong()[pri:3, instance:DomaciRickAstley.NewTest@6b4a4e18]" started-at="2020-04-05T21:08:34 CEST" name="playSong" finished-at="2020-04-05T21:08:37 CEST" duration-ms="2641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playSong -->
+        <test-method signature="playNextSong()[pri:4, instance:DomaciRickAstley.NewTest@6b4a4e18]" started-at="2020-04-05T21:08:37 CEST" name="playNextSong" finished-at="2020-04-05T21:08:39 CEST" duration-ms="2151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playNextSong -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:DomaciRickAstley.NewTest@6b4a4e18]" started-at="2020-04-05T21:08:39 CEST" name="afterClass" finished-at="2020-04-05T21:08:43 CEST" duration-ms="4192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- DomaciRickAstley.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
